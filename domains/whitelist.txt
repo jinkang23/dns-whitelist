@@ -234,3 +234,4 @@ googleadservices.com
 plex.direct
 myunraid.net
 tunnelbroker.net
+www.nslookup.io
